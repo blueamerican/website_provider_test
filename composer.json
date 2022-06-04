@@ -1,5 +1,5 @@
 {
-  "name": "markusduebbert/website_provider",
+  "name": "markusduebbert/website_provider_test",
   "type": "typo3-cms-extension",
   "description": "Sitepackage from Markus, based on fluid even for menus.",
   "homepage": "http://www.markusduebbert.de",
