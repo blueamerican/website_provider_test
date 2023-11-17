@@ -1,6 +1,6 @@
 config {
 
-	#for news!!
+	#for great news!!
 	sys_language_overlay = 1
 	#sys_language_mode = strict
 	#dev only
