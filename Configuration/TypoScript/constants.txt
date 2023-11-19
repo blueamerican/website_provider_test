@@ -1,4 +1,4 @@
-## Name des Internetauftrittes, Title im Logo
+## cherry Name des Internetauftrittes, Title im Logo
 sitename = Test Seite
 
 
